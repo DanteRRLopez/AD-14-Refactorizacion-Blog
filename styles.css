@@ -1,0 +1,8 @@
+/* Mantén CSS simple; usa las utilidades de Bootstrap para casi todo */
+:root{
+  /* Paleta de hasta 5 colores (usaremos principalmente las clases Bootstrap) */
+  /* primary, secondary, light, dark, info */
+}
+
+/* Opcional: micro-ajustes de tipografía/espacios */
+body { line-height: 1.6; }
